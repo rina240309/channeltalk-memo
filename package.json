@@ -1,0 +1,13 @@
+{
+  "name": "channeltalk-memo",
+  "version": "1.0.0",
+  "description": "채널톡 스니펫 메모 시스템",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
